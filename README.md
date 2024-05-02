@@ -1,2 +1,2 @@
-# MSDS696_Practicum_two
+# MSDS696_Practicum_Two
 MSDS Practicum Two
